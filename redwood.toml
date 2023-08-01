@@ -15,8 +15,6 @@
   ]
 [api]
 port = "PORT"
-[api]
-  port = 8911
 [browser]
   open = true
 [notifications]
